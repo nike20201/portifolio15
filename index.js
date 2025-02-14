@@ -46,3 +46,4 @@ resumebtns.forEach((btn, idx) => {
         resumedetails[idx].classList.add('active');
     });
 });
+//comentario
